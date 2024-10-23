@@ -1,0 +1,1 @@
+Este es el README de creación de este repositorio para el proyecto "grande" de IIA.
